@@ -15,8 +15,11 @@
 - Building a **Mobile application for my coconut disease detection system**
 
 ### 🧠 Interests
-Programming | Machine Learning |   | Data Analysis |   
+Programming | Machine Learning | AI | Data Analysis | Solving Real-time Problems
 
-📫 **Reach me at:** kerojanan.logeswaran.og@gmail.com
+### 🌐 Connect With Me
+📫 [LinkedIn](https://www.linkedin.com/in/kerojanan-logeswaran/)
+📧 Email:  kerojanan.logeswaran.og@gmail.com
+
 
 ⭐ Check out my repositories to see what I'm working on!
